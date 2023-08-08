@@ -6,4 +6,6 @@
    ```PowerShell
    get-service -name spooler
    ```
+
 1. Finish your work
+added new line on local computer
