@@ -5,3 +5,4 @@
    ```PowerShell
    get-service -name spooler
    ```
+added new line on local computer
